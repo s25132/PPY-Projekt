@@ -1,0 +1,19 @@
+1;Great Pyramid of Giza;The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex. It is believed to have been constructed as a tomb for the Egyptian pharaoh Khufu.;20;USD;Giza;Egypt;29.9792;31.1342
+2;Colosseum;The Colosseum is an ancient amphitheater located in the center of Rome, Italy. It was used for gladiatorial contests and public spectacles such as mock sea battles, animal hunts, and executions.;15;EUR;Rome;Italy;41.8902;12.4922
+3;Machu Picchu;Machu Picchu is an Incan citadel located in the Andes Mountains in Peru. It was built in the 15th century and later abandoned. Today, it is a UNESCO World Heritage Site and one of the most famous archaeological sites in the world.;30;USD;Aguas Calientes;Peru;-13.1631;-72.5450
+4;Taj Mahal;The Taj Mahal is a white marble mausoleum located in Agra, India. It was built by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is regarded as one of the most beautiful buildings in the world.;1000;INR;Agra;India;27.1751;78.0421
+5;Petra;Petra is an ancient city located in southern Jordan. It is famous for its rock-cut architecture and water conduit system. Petra was the capital of the Nabatean Kingdom and is a UNESCO World Heritage Site.;25;USD;Ma'an;Jordan;30.3285;35.4444
+6;Acropolis of Athens;The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens, Greece. It contains several ancient buildings of great architectural and historic significance, the most famous being the Parthenon. The Acropolis is a UNESCO World Heritage Site.;25;EUR;Athens;Greece;37.9715;23.7262
+7;Chichen Itza;Chichen Itza is a large pre-Columbian archaeological site located in the Yucat�n Peninsula, Mexico. It was a major focal point in the northern Maya lowlands from the Late Classic through the Terminal Classic and into the early portion of the Early Postclassic period. The site exhibits a multitude of architectural styles, reminiscent of styles seen in central Mexico and of the Puuc and Chenes styles of the northern Maya lowlands. Chichen Itza was one of the largest Maya cities and it was likely to have been one of the mythical great cities, or Tollans, referred to in later Mesoamerican literature.;700;MXN;Yucat�n;Mexico;20.6831;-88.5692
+8;Test;Test;20;USD;TEST;TEST;29.9792;31.1342
+9;Test;Test;20;USD;TEST;TEST;29.9792;31.1342
+10;Test;Test;20;USD;TEST;TEST;29.9792;31.1342
+11;Test;Test;20;USD;TEST;TEST;29.9792;31.1342
+12;Test;Test;20;USD;TEST;TEST;29.9792;31.1342
+14;Test;Test;20;USD;TEST;TEST;29.9792;31.1342
+15;Test;Test;20;USD;TEST;TEST;29.9792;31.1342
+16;Test;Test;20;USD;TEST;TEST;29.9792;31.1342
+17;Test;Test;20;USD;TEST;TEST;29.9792;31.1342
+18;Test;Test;20;USD;TEST;TEST;29.9792;31.1342
+19;Test;Test;20;USD;TEST;TEST;29.9792;31.1342
+20;Test;Test;20;USD;TEST;TEST;29.9792;31.1342
