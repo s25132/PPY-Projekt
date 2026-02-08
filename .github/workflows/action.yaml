@@ -26,3 +26,4 @@ jobs:
         with:
           base_sha: ${{ github.event.inputs.base_sha || 'HEAD~1' }}
           head_sha: ${{ github.event.inputs.head_sha || 'HEAD' }}
+          copilot_token: ${{ secrets.COPILOT_TOKEN }}
