@@ -22,7 +22,7 @@ jobs:
           fetch-depth: 0
 
       - name: Print changed Python files
-        uses: s25132/hello-python-docker-action@v1
+        uses: s25132/summarize-changed-files-agent@v1
         with:
           base_sha: ${{ github.event.inputs.base_sha || 'HEAD~1' }}
           head_sha: ${{ github.event.inputs.head_sha || 'HEAD' }}
